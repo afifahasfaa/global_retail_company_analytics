@@ -23,4 +23,4 @@ Global retail company analytics is an analytics dashboard based on the companyâ€
 3.	Which product line was sold the most (in quantity) throughout September 2003 to March 2004?
 
 ## ðŸ“Ž Preview
-![Dashboard Preview](Screenshot%202026-09-25%20121628.png)
+![Dashboard Preview](Screenshot%202026-09-25%20201317.png)
