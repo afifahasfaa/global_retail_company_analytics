@@ -9,7 +9,7 @@ Global retail company analytics is an analytics dashboard based on the company�
 
 ## 📊 Dataset Used
 - Raw data: raw data from RevoU
-- Clean data: 
+- Clean data: https://github.com/afifahasfaa/global_retail_company_analytics/blob/main/Sales_Data.xlsx
 
 ## 💡 What I learned
 - How to clean data using Microsoft Excel
